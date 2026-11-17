@@ -1,0 +1,8 @@
+{
+  "name": "QuantaLab 3D",
+  "description": "Real-time 3D physics simulations, gamified molecular chemistry lab, precision symbolic math & 3D function plotter, and Gemini lab tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
